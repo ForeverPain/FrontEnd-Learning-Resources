@@ -2,10 +2,11 @@
 
 ### 【译：前端学习资源收集】
 
-#### **Collection of all front-end self-learning tutorials at home and abroad**
+---
 
->####                                            【译： 收集国内外所有地程序员前端自学教程网址】
+> **Collection of all front-end self-learning tutorials at home and abroad**
 >
+> **【译： 收集国内外所有地程序员前端自学教程网址】**
 
 >-----------------------------------------------------------------------------------------------------------------------------------------------------------
 >
